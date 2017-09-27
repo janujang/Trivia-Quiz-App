@@ -1,0 +1,9 @@
+122817710
+Physics
+Physics TF Quiz
+5
+1|At terminal velocity, all motion stops?|false
+1|Your mass on Earth is different than your mass on Mars.|false
+1|Any object falling toward Earth will accelerate until impact?|false
+1|Friction is a force that retards motion?|false
+1|Linear momentum is always conserved?|false

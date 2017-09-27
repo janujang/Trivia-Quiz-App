@@ -1,0 +1,9 @@
+842940041
+Kids
+SpongeBob
+5
+3|The Alaskan Bull Worm says only one thing. What is it?|["Why?","Ouch",“Ugh.”,“Dad?”]|["Ouch"]
+3|What is SpongeBob's last Name?|[Sparkle,SquarePants,RoundPants,Pants]|[SquarePants]
+3|Who is Spongebob's best friend|[Squidward,Patrick,Sandy,Mr.Krabs]|[Patrick]
+3|What does Spongebob live in?|[GarbageCan,Rock,Pineapple,Dome]|[Rock]
+3|Who is Mr.Krabs Enemy?|[Plankton,Sandy,Ms.Puff,Spongebob]|[Sandy]

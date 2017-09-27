@@ -1,0 +1,9 @@
+332587252
+Technology
+Apple
+5
+3|Who were the founder(s) of Apple Computer INC.?|[Steve Jobs,Ronald Wayne,Steve Wozniak,Bill Gates]|[Steve Jobs,Ronald Wayne,Steve Wozniak]
+3|How much did the first Apple Computer Retail For?|[$666.66,$60,$1000,$1200]|[$666.66]
+3|Which Apple Store was the most expensive to build?|[Manhattan,Square One,California,Winnipeg]|[Manhattan]
+1|Is Apple the creater of the iphone ?|true
+3|When was the orginial iPod released?|[2000,2001,1999,2002]|[2001]

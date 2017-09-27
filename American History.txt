@@ -1,0 +1,14 @@
+123123123
+History
+American History
+10
+1|George Washington is the first POTUS.|true
+1|John Adams is the third POTUS.|false
+2|In what year was the Declaration of Independence signed?|[1776,1789,1800]|1776
+2|Which country was America's main ally in the Revolutionary War?|[Britain,France,Canada]|France
+3|Which administrations dealt with the Vietnam War?|[Johnson,Kennedy,Nixon,Ford]|[Johnson,Kennedy,Nixon,Ford]
+3|Which presidents are featured on paper currency?|[Thomas Jefferson,Alexander Hamilton,James Madison]|[Thomas Jefferson,James Madison]
+1|Alexander Hamilton married Angelica Schuyler.|false
+1|Aaron Burr shot Alexander Hamilton.|true
+1|John Adams is the second POTUS.|true
+1|James Madison wrote the U.S. Constitution.|true
